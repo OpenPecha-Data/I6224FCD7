@@ -1,15 +1,16 @@
-id: opecha:P007930
+id: P007930
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG25389
   title: རི་མོར་བལྟས་ནས་གྲངས་ཀ་ངོས་འཛིན་པ།
-  volume:
+  author: ''
+  volumes:
     183a5745e16c482393742321b5df026e:
       image_group_id: I1KG25391
       title: Volume 1 of ri mor bltas nas grangs ka ngos 'dzin pa/
       volume_number: 1
       total_pages: 65
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རི་མོར་བལྟས་ནས་གྲངས་ཀ་ངོས་འཛིན་པ།
   author: ''
